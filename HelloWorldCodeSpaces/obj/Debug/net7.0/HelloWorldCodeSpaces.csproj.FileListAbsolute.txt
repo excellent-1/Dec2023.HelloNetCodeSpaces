@@ -1,0 +1,15 @@
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net7.0/HelloWorldCodeSpaces
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net7.0/HelloWorldCodeSpaces.deps.json
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net7.0/HelloWorldCodeSpaces.runtimeconfig.json
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net7.0/HelloWorldCodeSpaces.dll
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net7.0/HelloWorldCodeSpaces.pdb
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.csproj.AssemblyReference.cache
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.AssemblyInfoInputs.cache
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.AssemblyInfo.cs
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.csproj.CoreCompileInputs.cache
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.dll
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/refint/HelloWorldCodeSpaces.dll
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.pdb
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/HelloWorldCodeSpaces.genruntimeconfig.cache
+/workspaces/Dec2023.HelloNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net7.0/ref/HelloWorldCodeSpaces.dll
